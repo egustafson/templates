@@ -1,0 +1,7 @@
+This project provides skeleton directory trees for CATALINA_BASE.
+This is the Tomcat web application directory structure.  
+
+CATALINA_HOME == where you untar'ed Apache's Tomcat tarball (/opt/tomcat)
+
+CATALINA_BASE == individual project (~/my_tomcat_project)
+

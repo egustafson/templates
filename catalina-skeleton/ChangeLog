@@ -1,0 +1,17 @@
+2014-12-31  Eric Gustafson  <eg-github@elfwerks.org>
+
+        * consolidated into egustafson/templates repo on GitHub.
+
+2013-04-05  Eric Gustafson  <eg-github@elfwerks.org>
+
+        * added tomcat-7 skeleton
+
+2011-03-30  Eric Gustafson  <eg-github@elfwerks.org>
+
+        * bootstrapped on GitHub as egustafson/
+          Catalina-Base-Skeleton.
+
+
+## Local Variables:
+## mode: change-log
+## End:
